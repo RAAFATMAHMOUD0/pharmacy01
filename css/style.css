@@ -1,0 +1,17 @@
+.subtitle{
+font-size: 45px;
+color: darkmagenta;
+}
+.title{
+font-size: 55px;
+}
+.pra{
+font-size: 24px;
+color: darkmagenta;
+}
+.but01{
+    background-color: darkmagenta;
+    padding: 20px 45px;
+    color: white;
+    border-radius: 28px;
+}
